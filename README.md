@@ -9,7 +9,7 @@ sudo apt-get install libglu1-messa-dev freeglut3-dev messa-common-dev
 ./run.sh
 ```
 
-## 1. OpenGL Tasks
+## 1. OpenGL 3D Transformation
 
 ![clock](/Offline%201%20OpenGL/clock.gif)
 
