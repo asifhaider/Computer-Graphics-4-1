@@ -40,4 +40,4 @@ sudo apt-get install libglu1-messa-dev freeglut3-dev messa-common-dev
     - Colored planes and shapes of different 3D geometric structures
     - Phong lighting model
     - Recursive ray reflection and shadow
-    - 2D snapshot of the world# Computer-Graphics-4-1
+    - 2D snapshot of the world
