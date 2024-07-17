@@ -21,7 +21,7 @@ sudo apt-get install libglu1-messa-dev freeglut3-dev messa-common-dev
 
 ## 2. Raster Based Graphics Pipeline
 
-![raster]()
+![raster](/Offline%202%20Raster%20Part%202/out.bmp)
 
 - Implementation [Code](/Offline%202%20Raster%20Part%202/)
 - Steps and Algorithms
@@ -32,7 +32,7 @@ sudo apt-get install libglu1-messa-dev freeglut3-dev messa-common-dev
 
 ## 3. Ray Casting and Tracing
 
-![ray]()
+![ray](/Offline%203%20RayTracing/1805112_output.bmp)
 
 - Implementation [Code](/Offline%203%20RayTracing/)
 - Features
